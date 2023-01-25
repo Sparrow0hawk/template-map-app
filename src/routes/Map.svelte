@@ -16,8 +16,8 @@
 		map = new Map({
 			container: mapContainer,
 			style: 'https://demotiles.maplibre.org/style.json',
-			center: [-74.5, 40],
-			zoom: 9
+			center: [-3.15, 54.3],
+			zoom: 5
 		});
 
 		map.addControl(new ScaleControl());
