@@ -26,6 +26,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"maplibre-gl": "^2.4.0"
+		"maplibre-gl": "^2.4.0",
+		"sveltestrap": "^5.10.0"
 	}
 }
